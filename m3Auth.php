@@ -15,6 +15,6 @@
 
     </head>
     <body>
-		<?php echo '<p>Hallo Welt</p>'>
+		<?php echo '<p>Hallo Welt</p>'; ?>
     </body>
 </html>
